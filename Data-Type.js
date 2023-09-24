@@ -22,3 +22,10 @@ function datatypefunction(secondInteger , secondDecimal , secondString){
 }
 
 console.log(datatypefunction())
+
+
+// let's string number to number by using premitive data type Number of javascript 
+
+
+const Mynumber = "30"
+console.log(Number(Mynumber))
